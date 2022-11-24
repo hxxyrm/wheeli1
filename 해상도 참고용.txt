@@ -1,0 +1,3 @@
+웹사이트는 맥 기준 1920 * 1200 으로 제작했습니다.
+
+깃허브 링크 https://hxxyrm.github.io/Wheeli/
